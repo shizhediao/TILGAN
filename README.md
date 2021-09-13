@@ -1,6 +1,6 @@
 # TILGAN
 
-Source code for the Findings of ACL 2021 paper entitled  `TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation`.
+Source code for the Findings of ACL 2021 paper entitled [TILGAN: Transformer-based Implicit Latent GAN for Diverse and Coherent Text Generation](https://aclanthology.org/2021.findings-acl.428.pdf).
 
 ## Quick Links
 - [TILGAN](#tilgan)
@@ -83,7 +83,7 @@ If you encounter any problems when using the code, or want to report a bug, you 
 Please try to specify the problem with details so we can help you better and quicker!
 
 ## Citation
-If you use or extend our work, please cite the following [paper](https://aclanthology.org/2021.findings-acl.428.pdf):
+If you use or extend our work, please cite the following paper:
 ```
 @inproceedings{DSSSZ2021,
     title = "{TILGAN}: Transformer-based Implicit Latent {GAN} for Diverse and Coherent Text Generation",
